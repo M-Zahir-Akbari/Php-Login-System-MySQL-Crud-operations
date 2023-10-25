@@ -2,8 +2,8 @@
 
 Database:
 	- It has four tables:
-		-users - (user_id [auto increment PK], username [unique- not nul], password [not nul])
-		-teachers - (teacher_id [auto increment PK], name [not nul])
+ 		-users - (user_id [auto increment PK], username [unique- not nul], password [not nul])
+   		-teachers - (teacher_id [auto increment PK], name [not nul])
 		-subjects - (subject_id [auto increment PK], name [not nul], teacher_id [FK])
 		-students - (student_id [auto increment PK], name [not nul])
 

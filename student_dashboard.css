@@ -1,0 +1,75 @@
+body {
+  box-sizing: border-box;
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  background-color: rgb(211, 212, 185);
+}
+
+h1 {
+  margin-left: 34.5%;
+  background-color: white;
+  color: #000000;
+  padding: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  border: 1px solid rgb(108, 229, 250);
+  border-radius: 5px;
+  width: 400px;
+}
+
+.container {
+  margin: 0 auto;
+  padding-left: 35%;
+}
+
+.teacher_btn {
+  background-color: black;
+  color: white;
+  font-size: large;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 7.5px;
+}
+
+.subject_btn {
+  background-color: red;
+  color: rgb(0, 255, 255);
+  font-size: large;
+  border: 1px solid red;;
+  border-radius: 5px;
+  padding: 7.5px;
+}
+
+.student_btn {
+  background-color: green;
+  color: rgb(255, 127, 255);
+  font-size: large;
+  border: 1px solid green;
+  border-radius: 5px;
+  padding: 7.5px;
+}
+
+a{
+  color: red;
+  margin-left: 46%;
+  font-size: x-large;
+  text-align: center;
+  text-decoration: none;
+}
+
+li{
+  font-size: 24px;
+}
+
+#h21{
+  color: black;
+}
+
+#h22{
+  color: red;
+}
+
+#h23{
+  color: green;
+}

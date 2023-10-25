@@ -1,0 +1,31 @@
+html,
+form,
+.a {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(211, 212, 185);
+}
+
+h2 {
+  background-color: white;
+  color: #000000;
+  padding: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  border: 1px solid rgb(108, 229, 250);
+  border-radius: 5px;
+  width: 150px;
+  margin-right: 30px;
+}
+
+a{
+    text-decoration: none;
+    font-size: large;
+}
+
+li{
+    font-size: 20px;
+    color: blue;
+}

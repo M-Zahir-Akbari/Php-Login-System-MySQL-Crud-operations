@@ -1,0 +1,120 @@
+body {
+  box-sizing: border-box;
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  background-color: rgb(211, 212, 185);
+}
+
+h1 {
+  margin-left: 5%;
+  background-color: white;
+  color: #000000;
+  padding: 6px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  border: 1px solid rgb(108, 229, 250);
+  border-radius: 5px;
+  width: 360px;
+}
+
+h2 {
+  margin-left: 41.5%;
+  background-color: white;
+  color: #000000;
+  padding: 10px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  border: 1px solid rgb(108, 229, 250);
+  border-radius: 5px;
+  width: 200px;
+}
+
+.add_btn {
+  background-color: green;
+  color: white;
+  font-size: medium;
+  border: 1px solid green;
+  border-radius: 5px;
+  padding: 5px;
+  width: 110px;
+}
+
+.update_btn {
+  background-color: blue;
+  color: white;
+  font-size: medium;
+  border: 1px solid blue;
+  border-radius: 5px;
+  padding: 5px;
+  width: 130px;
+}
+
+.delete_btn {
+  background-color: red;
+  color: white;
+  font-size: medium;
+  border: 1px solid red;
+  border-radius: 5px;
+  padding: 5px;
+  width: 125px;
+}
+
+.add_form {
+  margin-left: 38%;
+  background-color: #8ceef1;
+  color: #3211f1;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  width: 300px;
+}
+
+.update_form {
+  margin-left: 33%;
+  background-color: #8ceef1;
+  color: #3211f1;
+  border: 1px solid red;
+  border-radius: 5px;
+  padding: 5px;
+  width: 440px;
+}
+
+.delete_form {
+  margin-left: 39.5%;
+  background-color: #8ceef1;
+  color: #3211f1;
+  border: 1px solid green;
+  border-radius: 5px;
+  padding: 5px;
+  width: 255px;
+}
+
+.text {
+  margin: 8px;
+  background-color: #f7ccf3;
+  color: black;
+  font-size: medium;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  width: 150px;
+}
+
+select {
+  margin: 8px;
+  background-color: #f7ccf3;
+  color: black;
+  font-size: medium;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  width: 100px;
+}
+
+a {
+  color: red;
+  font-size: x-large;
+  margin-left: 46%;
+  text-decoration: none;
+}

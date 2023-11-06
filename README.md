@@ -54,9 +54,9 @@ students, teachers, and subjects.
 
 ## Screenshots
 
-![Student Dashboard](screenshots/student-dashboard.png)
-![Teacher Dashboard](screenshots/teacher-dashboard.png)
-![Login Page](screenshots/login-page.png)
+![Student Dashboard](student-dashboard.png)
+![Teacher Dashboard](teacher-dashboard.png)
+![Login Page](/login-page.png)
 
 ## Database Setup
 

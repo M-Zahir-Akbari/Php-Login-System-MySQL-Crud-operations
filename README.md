@@ -19,7 +19,7 @@ students, teachers, and subjects.
 
 - **Login System**: The system includes a login system for teachers and students, ensuring that only authorized users can access the system.
 
-- **User Types**: It supports two user types, teachers, and students, each with their respective dashboards.
+- **User Types**: It supports two user types, teachers, & students, each with their respective dashboards.
 
 - **Student Dashboard**:
   - View the list of teachers and subjects.

@@ -1,6 +1,6 @@
 # University-Class Management System
 
-This is a simple University-Class Management System that allows teachers to manage their academic information and allows students to view the information. The system provides functionality for adding, updating, and deleting
+This is a simple University-Class Management System that allows teachers to manage their academic information and allows students to view the information.  The system provides functionality for adding, updating, and deleting
 students, teachers, and subjects.
 
 ## Table of Contents
